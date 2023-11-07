@@ -1,0 +1,113 @@
+{
+    "survey": [
+        {
+            "id": 1,
+            "question": "Glaubst Du, dass Archäologie ein normaler Beruf ist?",
+            "answers": [
+                {
+                    "a": "Nein, das ist eher so ein Hobby."
+                },
+                {
+                    "b": "Ja, aber man macht dafür vieles in der Freizeit."
+                },
+                {
+                    "c": "Ja, Archäologie ist ein Job wie jeder andere."
+                }
+            ],
+            "givenAnswers": [
+                {
+                    "a": 1345
+                },
+                {
+                    "b": 234
+                },
+                {
+                    "c": 12
+                }
+            ],
+            "chartType": "bar"
+        },
+        {
+            "id": 2,
+            "question": "Findest Du, Archäologie wäre als Beruf wichtig?",
+            "answers": [
+                {
+                    "a": "Ja, das Erforschen der Vergangenheit ist wichtig!"
+                },
+                {
+                    "b": "Spannend ja, aber wichtig?"
+                },
+                {
+                    "c": "Ich weiß nicht."
+                }
+            ],
+            "givenAnswers": [
+                {
+                    "a": 59
+                },
+                {
+                    "b": 501
+                },
+                {
+                    "c": 24
+                }
+            ],
+            "chartType": "pie"
+        },
+        {
+            "id": 3,
+            "question": "Wird es in der Zukunft noch archäologische Ausgrabungen geben?",
+            "answers": [
+                {
+                    "a": "Nur da, wo nötig"
+                },
+                {
+                    "b": "Wenn es spannende Funde gibt, bestimmt."
+                },
+                {
+                    "c": "Nein, das wird man nicht mehr brauchen. Es gibt andere technische Möglichkeiten."
+                },
+                {
+                    "d": "Nein, etwas Neues wird nicht mehr gefunden."
+                }
+            ],
+            "givenAnswers": [
+                {
+                    "a": 4
+                },
+                {
+                    "b": 50
+                },
+                {
+                    "c": 111
+                },
+                {
+                    "d": 4
+                }
+            ],
+            "chartType": "radar"
+        },
+        {
+            "id": 4,
+            "question": "Archäologie ist … / Was ist Archäologie?",
+            "givenAnswers": [
+                "Wissenschaft",
+                "Grabung",
+                "Artefakte",
+                "Vergangenheit",
+                "Forschung",
+                "Geschichte",
+                "Fundstücke",
+                "Ausgrabungen",
+                "Kulturerbe",
+                "Ruinen",
+                "Antike",
+                "Untersuchung",
+                "Historie",
+                "Spuren"
+            ],
+            "chartType": "wordCloud"
+        }
+        
+    ]
+}
